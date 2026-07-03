@@ -116,7 +116,8 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="relative z-10 mt-auto py-5 text-center font-mono text-[10px] text-[#2a3045] tracking-widest uppercase">
-        durium · June 2026
+        <p>durium · June 2026</p>
+        <p className="mt-1">© 2026 VargasJR LLC. All rights reserved.</p>
       </footer>
     </main>
   );
